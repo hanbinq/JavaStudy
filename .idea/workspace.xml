@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ace4d260-195e-40aa-ae05-523f9b9a6aab" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/day01-code/day01-code.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01-code/src/cn/itcast/day01/Demo01Const.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day01-code/src/cn/itcast/day01/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,11 +12,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day01-code/src/cn/itcast/day01/Demo01Const.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+            <state relative-caret-position="273">
+              <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day01-code/src/cn/itcast/day01/Demo02Variable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -59,32 +64,11 @@
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="basic-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day01-code" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="basic-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day01-code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="basic-code" type="b2602c69:ProjectViewProjectNode" />
-              <item name="day01-code" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="day01" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
@@ -92,7 +76,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547106502603" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547106578025" />
     <property name="jdk.selected.JAVA_MODULE" value="9" />
     <property name="last_opened_file_path" value="C:/workstation/nbmp/nbmp_mng" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -158,7 +142,7 @@
       <updated>1546855517073</updated>
       <workItem from="1546855520178" duration="9103000" />
       <workItem from="1547037118401" duration="1578000" />
-      <workItem from="1547103108160" duration="1559000" />
+      <workItem from="1547103108160" duration="1799000" />
     </task>
     <task id="LOCAL-00001" summary="IDEA整合Github测试">
       <created>1546869124592</created>
@@ -167,15 +151,21 @@
       <option name="project" value="LOCAL" />
       <updated>1546869124592</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Day01">
+      <created>1547106623172</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1547106623173</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12240000" />
+    <option name="totallyTimeSpent" value="12480000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="480" y="76" width="1148" height="784" extended-state="0" />
-    <editor active="true" />
+    <frame x="428" y="69" width="1148" height="784" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25779817" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -213,7 +203,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="IDEA整合Github测试" />
-    <option name="LAST_COMMIT_MESSAGE" value="IDEA整合Github测试" />
+    <MESSAGE value="Day01" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day01" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/day05-code/src/cn/itcast/day05/demo01/HelloJava.java">
@@ -243,8 +234,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day01-code/src/cn/itcast/day01/Demo01Const.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="28" column="11" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+        <state relative-caret-position="273">
+          <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day01-code/src/cn/itcast/day01/Demo02Variable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
