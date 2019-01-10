@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ace4d260-195e-40aa-ae05-523f9b9a6aab" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day01-code/src/cn/itcast/day01/Demo02Variable.java" beforeDir="false" afterPath="$PROJECT_DIR$/day01-code/src/cn/itcast/day01/Demo02Variable.java" afterDir="false" />
-    </list>
+    <list default="true" id="ace4d260-195e-40aa-ae05-523f9b9a6aab" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +31,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/day01-code/src/cn/itcast/day01/Demo03VariableNotice.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+            <state relative-caret-position="76">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -86,6 +83,11 @@
               <item name="basic-code" type="b2602c69:ProjectViewProjectNode" />
               <item name="day01-code" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="basic-code" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day01-code" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -97,7 +99,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547110191982" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547110342751" />
     <property name="jdk.selected.JAVA_MODULE" value="9" />
     <property name="last_opened_file_path" value="C:/workstation/nbmp/nbmp_mng" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -163,7 +165,7 @@
       <updated>1546855517073</updated>
       <workItem from="1546855520178" duration="9103000" />
       <workItem from="1547037118401" duration="1578000" />
-      <workItem from="1547103108160" duration="4958000" />
+      <workItem from="1547103108160" duration="5276000" />
     </task>
     <task id="LOCAL-00001" summary="IDEA整合Github测试">
       <created>1546869124592</created>
@@ -197,7 +199,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15639000" />
+    <option name="totallyTimeSpent" value="15957000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -209,7 +211,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="438" y="158" width="1148" height="784" extended-state="0" />
+    <frame x="408" y="46" width="1148" height="784" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25779817" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -244,6 +246,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="IDEA整合Github测试" />
@@ -292,8 +304,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day01-code/src/cn/itcast/day01/Demo03VariableNotice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
