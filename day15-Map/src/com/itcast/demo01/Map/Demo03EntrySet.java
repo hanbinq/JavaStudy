@@ -9,7 +9,7 @@ import java.util.Set;
 * Map集合遍历的第二种方式:使用Entry对象遍历
 *
 * Map集合中的方法:
-*     Set<Map.Entry<K,V>> entrySet() 返回此映射中包含的映射关系的Set视图。
+*     Set<Demo01LinkedHashMap.Entry<K,V>> entrySet() 返回此映射中包含的映射关系的Set视图。
 *
 * 实现步骤:
 * 1. 使用Map集合中的方法entrySet()，把Map集合中多个Entry对象取出来，存储到一个Set集合中

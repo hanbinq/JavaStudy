@@ -14,6 +14,14 @@
       <module fileurl="file://$PROJECT_DIR$/day10-code/day10-code.iml" filepath="$PROJECT_DIR$/day10-code/day10-code.iml" />
       <module fileurl="file://$PROJECT_DIR$/day11-code/day11-code.iml" filepath="$PROJECT_DIR$/day11-code/day11-code.iml" />
       <module fileurl="file://$PROJECT_DIR$/day12-API/day12-API.iml" filepath="$PROJECT_DIR$/day12-API/day12-API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day13-CollectionAndReflect/day13-CollectionAndReflect.iml" filepath="$PROJECT_DIR$/day13-CollectionAndReflect/day13-CollectionAndReflect.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day14-ListAndSet/day14-ListAndSet.iml" filepath="$PROJECT_DIR$/day14-ListAndSet/day14-ListAndSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day15-Map/day15-Map.iml" filepath="$PROJECT_DIR$/day15-Map/day15-Map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day16-ExceptionAndThread/day16-ExceptionAndThread.iml" filepath="$PROJECT_DIR$/day16-ExceptionAndThread/day16-ExceptionAndThread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day17-Thread/day17-Thread.iml" filepath="$PROJECT_DIR$/day17-Thread/day17-Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day18-ThreadAndLambda/day18-ThreadAndLambda.iml" filepath="$PROJECT_DIR$/day18-ThreadAndLambda/day18-ThreadAndLambda.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day19-FileAndRecursion/day19-FileAndRecursion.iml" filepath="$PROJECT_DIR$/day19-FileAndRecursion/day19-FileAndRecursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day20-IOAndProperties/day20-IOAndProperties.iml" filepath="$PROJECT_DIR$/day20-IOAndProperties/day20-IOAndProperties.iml" />
     </modules>
   </component>
 </project>
