@@ -12,10 +12,7 @@
       <change afterPath="$PROJECT_DIR$/day20-IOAndProperties/src/com/itcast/demo06/trycatch/Demo03JDK9.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/day20-IOAndProperties/src/com/itcast/demo06/trycatch/DemoTryCatch.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/day20-IOAndProperties/src/com/itcast/demo07/Prop/Demo01Properties.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day15-Map/src/com/itcast/demo01/Map/Demo01Map.java" beforeDir="false" afterPath="$PROJECT_DIR$/day15-Map/src/com/itcast/demo01/Map/Demo01Map.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day15-Map/src/com/itcast/demo01/Map/Demo03EntrySet.java" beforeDir="false" afterPath="$PROJECT_DIR$/day15-Map/src/com/itcast/demo01/Map/Demo03EntrySet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/day20-IOAndProperties/src/com/itcast/demo03/CopyFile/Demo01CopyFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/day20-IOAndProperties/src/com/itcast/demo03/CopyFile/Demo01CopyFile.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -176,7 +173,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559281957226" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559282020726" />
     <property name="jdk.selected.JAVA_MODULE" value="9" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -323,14 +320,7 @@
       <workItem from="1557975476567" duration="20639000" />
       <workItem from="1558520201349" duration="10951000" />
       <workItem from="1558683841195" duration="29045000" />
-      <workItem from="1559210072593" duration="14165000" />
-    </task>
-    <task id="LOCAL-00022" summary="2019.03.24-day08-demo04">
-      <created>1553422486229</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1553422486229</updated>
+      <workItem from="1559210072593" duration="14481000" />
     </task>
     <task id="LOCAL-00023" summary="2019.03.24-day09-demo01">
       <created>1553424107261</created>
@@ -668,11 +658,18 @@
       <option name="project" value="LOCAL" />
       <updated>1559210227867</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="2019.05.31-day15-Map">
+      <created>1559282251150</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1559282251150</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="413105000" />
+    <option name="totallyTimeSpent" value="413421000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -684,9 +681,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="190" y="67" width="1308" height="772" extended-state="0" />
+    <frame x="78" y="28" width="1308" height="772" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.144" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.144" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -704,7 +701,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.435" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.32833335" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50170356" side_tool="true" weight="0.32748538" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="11" sideWeight="0.50170356" side_tool="true" visible="true" weight="0.3265625" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49908257" weight="0.32763976" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" sideWeight="0.49667406" weight="0.24933921" />
@@ -803,7 +800,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2019.04.16-demo04" />
     <MESSAGE value="2019.04.16-day14-demo01" />
     <MESSAGE value="2019.04.19-day14-demo02" />
     <MESSAGE value="2019.04.22-day14-demo03" />
@@ -828,7 +824,8 @@
     <MESSAGE value="2019.05.29-day19-demo03" />
     <MESSAGE value="2019.05.30-day20-demo01" />
     <MESSAGE value="2019.05.30-day20-demo01&amp;02&amp;03" />
-    <option name="LAST_COMMIT_MESSAGE" value="2019.05.30-day20-demo01&amp;02&amp;03" />
+    <MESSAGE value="2019.05.31-day15-Map" />
+    <option name="LAST_COMMIT_MESSAGE" value="2019.05.31-day15-Map" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
