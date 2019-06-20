@@ -22,6 +22,9 @@
       <module fileurl="file://$PROJECT_DIR$/day18-ThreadAndLambda/day18-ThreadAndLambda.iml" filepath="$PROJECT_DIR$/day18-ThreadAndLambda/day18-ThreadAndLambda.iml" />
       <module fileurl="file://$PROJECT_DIR$/day19-FileAndRecursion/day19-FileAndRecursion.iml" filepath="$PROJECT_DIR$/day19-FileAndRecursion/day19-FileAndRecursion.iml" />
       <module fileurl="file://$PROJECT_DIR$/day20-IOAndProperties/day20-IOAndProperties.iml" filepath="$PROJECT_DIR$/day20-IOAndProperties/day20-IOAndProperties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day21-IO/day21-IO.iml" filepath="$PROJECT_DIR$/day21-IO/day21-IO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day22-Net/day22-Net.iml" filepath="$PROJECT_DIR$/day22-Net/day22-Net.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day23-FunctionalInterface/day23-FunctionalInterface.iml" filepath="$PROJECT_DIR$/day23-FunctionalInterface/day23-FunctionalInterface.iml" />
     </modules>
   </component>
 </project>
